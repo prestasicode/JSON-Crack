@@ -47,5 +47,7 @@ Once the app is embedded, users can use it to view and analyze JSON data directl
   ]
 }
 ```
+![image](https://user-images.githubusercontent.com/50066797/234035977-f8080145-5f84-410f-8b70-019528975d9e.png)
+
 
 https://github.com/prestasicode/JSON-Crack/issues/1#issue-1681479753
